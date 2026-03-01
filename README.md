@@ -1,7 +1,7 @@
 # OneUI 7 For S8,S8+, And Note8
 <img width="1210" height="648" alt="WaterMark-Github-OneUI7-DPro" src="https://github.com/user-attachments/assets/df6d80cd-5f28-4f47-9511-45a499aa1079" />
 
-DPro is an Custom ROM made for S8,S8+ and Note 8 that can run OneUI 7 flawlessly.
+DPro is an Custom ROM made for S8,S8+ and Note 8 that can run OneUI 7 smoothly and futuristic
 ## Bugs:
 Camera,flashlight,Dex+HDMI Dex and  other minor bugs.
 ## Other:
@@ -23,3 +23,6 @@ if you do have the phone do this and add the steps to the External SD Card, if y
 9. Flash it. It can take a while so be patient.
 10. Done! You are Ready to go!
 ### !!Do not forget that this steps are ONLY for Exynos 8895 Devices!!
+Made with Love By:
+1. Gemini
+2. DaclePro-maker
