@@ -42,5 +42,5 @@ if you do have the phone do this and add the steps to the External SD Card, if y
 10. Done! You are Ready to go!
 ### !!Do not forget that this steps are ONLY for Exynos 8895 Devices!!
 Made with Love By:
-1. Gemini
-2. DaclePro-maker
+1. DaclePro (Hardware & Lead Dev)
+2. Gemini (Documentation & Support)
