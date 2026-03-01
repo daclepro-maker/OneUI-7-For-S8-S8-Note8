@@ -3,7 +3,6 @@
 
 DPro is an Custom ROM made for S8,S8+ and Note 8 that can run OneUI 7 flawlessly.
 ## Bugs:
-We are still searching for bugs!
-Please support us with a coffee!
+Camera,flashlight,Dex+HDMI Dex and  other minor bugs.
 ## Other:
 You may notice lag when installing it. It will dissapear shortly after.
