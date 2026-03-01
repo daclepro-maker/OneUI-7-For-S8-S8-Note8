@@ -15,6 +15,8 @@ DPro is an Custom ROM made for S8,S8+ and Note 8 that can run OneUI 7 smoothly a
 - (HDMI) DeX Audio
 - Flashlight does not work natively on Note8. Install 3rd apps to control flashlight
 - Fingerprint may not work in some banking apps due to outdated keystore
+- - Lockscreen delay on boot? (I don't know if it's oneui issue, it happens with almost every base i've tried so far)
+- Knox based apps like Health or Secure Folder. Please install KnoxPatch
 ## Features:
 - Galaxy AI
 - Circle to search
