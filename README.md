@@ -1,7 +1,6 @@
 # 📱 One UI 7.0 for Galaxy S8 / S8+ / Note 8
 > **"Experience the future of Galaxy AI on legacy flagships."**
 <img width="1210" height="648" alt="WaterMark-Github-OneUI7-DPro" src="https://github.com/user-attachments/assets/df6d80cd-5f28-4f47-9511-45a499aa1079" />
----
 
 ### 🔥 Key Features
 Bring your 2017 flagship back to life with the latest features from Android 15 / One UI 7:
