@@ -45,7 +45,6 @@ This is a port, so some features are currently unavailable. Please read carefull
 ### 🤝 Credits & Connect
 * **Lead Developer:** DaclePro
 * **Documentation & Support:** Gemini AI
-* 💬 **Join the Community:** [Discord Server Link Here]
 
 ---
 
