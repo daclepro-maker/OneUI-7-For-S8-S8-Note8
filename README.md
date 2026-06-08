@@ -21,8 +21,8 @@ This is a port, so some features are currently unavailable. Please read carefull
 | **Galaxy AI / Now Bar** | ✅ Working | Fluid experience. |
 | **LED View Cover** | ✅ Fixed | Working perfectly. |
 | **Samsung Camera** | ❌ Broken | Use GCam or the included Open Camera. |
-| **Biometrics** | ❌ Broken | Iris Scanner & Face Unlock do not work. |
-| **DRM L1 / DeX Audio** | ⚠️ Issues | Limited functionality. |
+| **Biometrics** | ⚠️ Issues | Face Unlock does not work. |
+| **DRM L1 / DeX Audio** | ⚠️ Issues | Audio not working. |
 
 > **📌 Device Specifics:**
 > * **Note 8:** Native flashlight toggle doesn't work; please use a 3rd party app.
