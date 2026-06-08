@@ -27,6 +27,7 @@ This is a port, so some features are currently unavailable. Please read carefull
 > **📌 Device Specifics:**
 > * **Note 8:** Native flashlight toggle doesn't work; please use a 3rd party app.
 > * **All Models:** Knox-based apps (Health, Secure Folder) require **KnoxPatch**.
+> * **All Models:** There **may be** some minor bugs
 
 ---
 
